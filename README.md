@@ -17,3 +17,5 @@ Steps<br>
 5)pip install rasa=1.10.0<br>
 6)rasa init<br>
 ![alt text](https://github.com/RaghavJindal13/Rasa-Chatbot/blob/master/Screenshot%20(134).png)<br><br>
+
+![alt text](https://github.com/RaghavJindal13/Rasa-Chatbot/blob/master/AI%20Chatbot/Capture.PNG)<br><br>
