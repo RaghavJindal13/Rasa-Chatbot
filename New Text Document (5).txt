@@ -1,0 +1,33 @@
+1)Conda create --name chatbotvenv python==3.7.6
+2)conda activate chatbotvenv
+3)conda install ujson==2.0.3
+4)conda install tensorflow==2.1.0
+5)pip install rasa=1.10.0
+6)rasa init
+
+conda env list
+conda activate chatbotvenv
+rasa shell
+
+data==> nlu
+domains.yml
+but after that you need to trail this model
+rasa train
+
+html file banao 
+ye code daalo 
+
+aur credentials me jake ye edit karo
+
+phit html file kholo 
+par chatbot nahi dikhega kuki server ni start kiya
+conda terminal me jake 
+rasa run --help
+rasa run --cors "*" --debug
+ab html file refresh kar aa jayega
+
+ab hum daalenge ise online 
+ngrock
+signup 
+download
+ngrok http 5005
